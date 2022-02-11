@@ -38,7 +38,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.222.141:8080/repository/devops-Snap/</url>
+            <url>http://192.168.222.141:8080/repository/devops-Snap-1/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
