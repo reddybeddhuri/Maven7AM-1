@@ -33,7 +33,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.222.141:8081/repository/devops-release1/</url>
+            <url>http://192.168.222.141:8081/repository/devops-release-1/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
