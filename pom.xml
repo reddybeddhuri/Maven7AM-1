@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jdevs</groupId>
-  <artifactId>awsdevops-project</artifactId>
+  <artifactId>new-121-project</artifactId>
   <version>1.0</version>
   <packaging>war</packaging>
   <build>
@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.222.141:8081/repository/awsdevops-release/</url>
+            <url>http://192.168.222.141:8081/repository/new-1/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.222.141:8081/repository/awsdevops-snap/</url>
+            <url>http://192.168.222.141:8081/repository/new-2/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
